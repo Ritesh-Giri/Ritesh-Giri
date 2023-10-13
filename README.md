@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ritesh-Giri.
-- 👀 I’m interested a Web Developer.
+- 👀 I’m interested a Web Designer.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on makin big real life projects.
 - 📫 How to reach me rrgiri032@gmail.com
