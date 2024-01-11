@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/@KnIgHtG11697565" target="blank"><img src="https://img.shields.io/twitter/follow/KnIgHtG11697565?logo=twitter&style=for-the-badge" alt="riteshgiri"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on Frontend Projects.
 
-- 🌱 I’m currently learning **JavaScript **
+- 🌱 I’m currently learning ** JavaScript **
 
-- 💬 Ask me about **JavaScript **
+- 💬 Ask me about JavaScript.
 
 - 📫 How to reach me **rrgiri032@gmail.com**
 
