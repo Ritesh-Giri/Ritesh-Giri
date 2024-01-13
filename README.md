@@ -19,38 +19,43 @@
 
 <br>
 
-## Connect with me:
+<h1>🌐 Socials:</h1>
 <p align="left">
   <a href="https://twitter.com/KnIgHtG11697565" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr-ritesh-giri" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/ritesh-giri-b8b770242/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@KnIgHtG11697565" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mr_ritesh_giri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr-ritesh-giri" height="30" width="40" />
   </a>
 </p>
 
-## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<h1># Languages and Tools:</h1>
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
 
-<p><img align="left"
-src="https://camo.githubusercontent.com/be9401ec8f7eff25b10bbe24e49f92daef783be2a06a4dca2809a74a94ec5f57/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7269746573682d676972692673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ritesh-giri" /></p>
-
+# 📊 GitHub Stats:
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-ritesh-giri&theme=dark&hide_border=false)<br/>
 <br>
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ritesh-giri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ritesh-giri&show_icons=true&locale=en" alt="ritesh-giri" />
+## 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mr-ritesh-giri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<br>
-<br>
+---
+[![Visit Count](https://visitcount.itsvg.in/api?id=mr-ritesh-giri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-giri" alt="ritesh-giri" />
+
+
+
+
+
