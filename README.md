@@ -51,9 +51,9 @@
 ## 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mr-ritesh-giri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![Visit Count](https://visitcount.itsvg.in/api?id=mr-ritesh-giri&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=mr-ritesh-giri&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)-->
 
+---
 
 
 
