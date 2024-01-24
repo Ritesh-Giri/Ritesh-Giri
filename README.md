@@ -30,6 +30,10 @@
   <a href="https://instagram.com/mr_ritesh_giri" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr-ritesh-giri" height="30" width="40" />
   </a>
+  <a href="https://greensock.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Programming/gsap.svg" alt="GSAP" height="30" width="40" />
+</a>
+
 </p>
 
 <h1># Languages and Tools:</h1>
