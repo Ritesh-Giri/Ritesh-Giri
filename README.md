@@ -9,7 +9,7 @@
   <a href="https://twitter.com/@KnIgHtG11697565" target="blank">
     <img src="https://img.shields.io/twitter/follow/KnIgHtG11697565?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
   </a>
-  <a href="www.linkedin.com/in/ritesh-giri-b8b770242" target="_blank">
+  <a href="www.linkedin.com/in/ritesh-giri-b8b770242" target="blank">
     <img src="https://img.shields.io/badge/Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect Badge" />
   </a>
 </p>
