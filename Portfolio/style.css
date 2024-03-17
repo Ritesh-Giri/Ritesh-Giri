@@ -12,7 +12,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: Poppins sans-serif;
-  font-family: rgb(240, 240, 232);
+  scroll-behavior: smooth;
 }
 main {
   height: 100vh;
@@ -122,7 +122,7 @@ p {
   font-weight: 900;
   margin-bottom: 130px;
 }
-button {
+.resume-dwld {
   font-size: 1.9rem;
   color: white;
   background-color: #3d535f;
@@ -130,6 +130,84 @@ button {
   padding: 8px 15px;
   letter-spacing: 3px;
 }
-button > i {
+.resume-dwld > i {
   font-size: 1.6rem;
+}
+
+/* Skills */
+
+.skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.skills > h2 {
+  margin-bottom: 60px;
+  border-bottom: 4px solid #3d535f;
+}
+.skill-set > img {
+  height: 140px;
+  width: 140px;
+  margin-right: 60px;
+}
+
+/* Projects */
+h3 {
+  font-size: 3rem;
+  color: #343a40;
+}
+h6 {
+  height: 20px;
+  width: 20px;
+}
+.projects > h2 {
+  border-bottom: 4px solid #3d535f;
+  margin-bottom: 50px;
+}
+.paragraph > p {
+  text-align: right;
+}
+.heading {
+  margin-bottom: 30px;
+}
+.top-line {
+  margin-bottom: 30px;
+  border-bottom: 2px solid white;
+}
+.projects {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.project-1 {
+  display: flex;
+  margin-bottom: 100px;
+}
+.project-1 > .left {
+  text-align: right;
+  margin-right: 90px;
+}
+.right > img {
+  height: 500px;
+  width: 450px;
+  border-radius: 10px;
+}
+.right > img:hover {
+  transform: scale(1.2);
+  transition: all ease-in-out 0.2s;
+}
+.view-btn {
+  background-color: transparent;
+  padding: 11px 50px;
+  font-size: 1.2rem;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.view-btn:hover {
+  background-color: black;
+  color: white;
+  transition: all ease-in-out 0.2s;
 }
