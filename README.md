@@ -43,8 +43,9 @@
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
- <img align="left" alt="GSAP" width="30px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" style="padding-right:10px;" />
- <img align="left" alt="Node.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="GSAP" width="30px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />
+
 
 </a>
 <br>
