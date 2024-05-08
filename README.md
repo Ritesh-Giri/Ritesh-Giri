@@ -25,16 +25,16 @@
 <br>
 
 <h1>🌐 Socials:</h1>
-<p align="left">
+<p align="left" style="gap:20px">
   <a href="https://twitter.com/KnIgHtG11697565" target="_blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KnIgHtG11697565" height="30" width="30" />
   </a>
-<!--   <a href="https://www.linkedin.com/in/ritesh-giri-b8b770242/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/ritesh-giri-b8b770242/" target="_blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr ritesh giri" height="30" width="30" />
   </a>
   <a href="https://instagram.com/mr_ritesh_giri" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr ritesh giri" height="30" width="30" />
-  </a> -->
+  </a> 
 </p>
 
 
