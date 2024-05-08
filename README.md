@@ -26,16 +26,17 @@
 
 <h1>🌐 Socials:</h1>
 <p align="left">
-  <a href="https://twitter.com/KnIgHtG11697565" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KnIgHtG11697565" height="30" width="30" style="padding-right: 30px;" />
+  <a href="https://twitter.com/KnIgHtG11697565" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KnIgHtG11697565" height="30" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/ritesh-giri-b8b770242/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr ritesh giri" height="30" width="30" style="margin-right: 30px;" />
+  <a href="https://www.linkedin.com/in/ritesh-giri-b8b770242/" target="_blank" style="margin-right: 10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr ritesh giri" height="30" width="30" />
   </a>
   <a href="https://instagram.com/mr_ritesh_giri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr ritesh giri" height="30" width="30" style="margin-right: 30px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr ritesh giri" height="30" width="30" />
   </a>
 </p>
+
 
 <h1># Languages and Tools:</h1>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
