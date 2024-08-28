@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently working on Frontend Projects.
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about JavaScript.
 - 📫 How to reach me: **rrgiri032@gmail.com**
 - ⚡ Fun fact: **I am Funny**
