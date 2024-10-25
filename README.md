@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-  <a href="https://twitter.com/@KnIgHtG11697565" target="_blank">
+  <a href="https://twitter.com/KnIgHtG11697565" target="_blank">
     <img src="https://img.shields.io/twitter/follow/KnIgHtG11697565?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
   </a>
   <a href="https://www.linkedin.com/in/ritesh-giri-b8b770242" target="_blank">
@@ -20,7 +20,6 @@
 - 📫 How to reach me: **rrgiri032@gmail.com**
 - ⚡ Fun fact: **I am Funny**
 
-<br/>
 <br/>
 
 ## 🌐 Socials:
@@ -37,9 +36,7 @@
   </a>
 </p>
 
-
-
-<br>
+<br/>
 
 ## 🛠️ Languages and Tools:
 
@@ -57,10 +54,7 @@
   <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
-
-
-<br>
+<br/>
 
 ## 📊 GitHub Stats:
 
@@ -71,7 +65,3 @@
 ## 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mr-ritesh-giri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Profile views badge -->
-<!-- [![](https://visitcount.itsvg.in/api?id=mr-ritesh-giri&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
-
